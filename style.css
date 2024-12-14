@@ -53,3 +53,9 @@ ul {
     margin-bottom: 5px;
     color: #34495e;
 }
+
+.profile_picture {
+    max-width: 300px;
+    max-height: 400px;
+    padding: 5px;
+}
